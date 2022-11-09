@@ -26,8 +26,8 @@ Olá, eu sou o Édipo Mascari!
 ##
 <div align="center">
   <a href="https://github.com/Mascariep">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mascariep&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascariep&layout=compact&langs_count=7&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Mascariep&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mascariep&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
