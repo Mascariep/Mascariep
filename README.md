@@ -3,7 +3,7 @@ Olá, eu sou o Édipo Mascari!
 
 - 🌱 Estudante de programação FullStack pela Labenu
 - 😄 Pronouns: ele/dele
-- 💀⚽
+- 💀⚽🎣
 
 <div> 
   <a href = "mailto:edipohc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
