@@ -1,7 +1,7 @@
 <h2>Olá, eu sou o Édipo Mascari!</h2>
 
 - 🎓 Formado em Engenharia Mecânica
-- 💻 Atualmente estudante de programação FullStack pela Labenu
+- 💻 Atualmente estudante de Desenvolvimento Web Full-Stack pela Labenu
 
 ##
 <div>📞 Contatos</div><br/>
